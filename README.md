@@ -26,7 +26,8 @@ This allowed comparison across sensor modalities, mirroring previous studies tha
 
 ## File Structure
 
-- `80_20_final.ipynb`: Main notebook with complete preprocessing, training, evaluation, and plots
+- `80_20_final.py`: Main notebook with complete preprocessing, training, evaluation, and plots
+- 'cross_validation.py': Contains implementations for 5-fold cross-validation and Leave-One-Individual-Out (LOIO) evaluation.
 
   ## Files
 - `cattle_behavior_model.py`: Main script for preprocessing, training, and evaluating the model.
